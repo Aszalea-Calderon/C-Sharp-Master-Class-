@@ -1,0 +1,15 @@
+D:\Corkboard\All-my-Lambda\C#\C#Master\bin\Debug\net6.0\C#Master.exe
+D:\Corkboard\All-my-Lambda\C#\C#Master\bin\Debug\net6.0\C#Master.deps.json
+D:\Corkboard\All-my-Lambda\C#\C#Master\bin\Debug\net6.0\C#Master.runtimeconfig.json
+D:\Corkboard\All-my-Lambda\C#\C#Master\bin\Debug\net6.0\C#Master.dll
+D:\Corkboard\All-my-Lambda\C#\C#Master\bin\Debug\net6.0\C#Master.pdb
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\C#Master.csproj.AssemblyReference.cache
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\C#Master.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\C#Master.AssemblyInfoInputs.cache
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\C#Master.AssemblyInfo.cs
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\C#Master.csproj.CoreCompileInputs.cache
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\C#Master.dll
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\refint\C#Master.dll
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\C#Master.pdb
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\C#Master.genruntimeconfig.cache
+D:\Corkboard\All-my-Lambda\C#\C#Master\obj\Debug\net6.0\ref\C#Master.dll
